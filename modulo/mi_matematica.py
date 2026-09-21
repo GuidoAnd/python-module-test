@@ -1,6 +1,5 @@
 
-def es_par(numero):
-    """Retorna True si el numero es par, False si es impar."""
+def es_par(numero):    
     if numero % 2 == 0:
         print("true")
         return True          
